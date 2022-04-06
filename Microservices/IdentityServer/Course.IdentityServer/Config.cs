@@ -11,7 +11,7 @@ namespace Course.IdentityServer {
     public static class Config {
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[] {
          new ApiResource("catalog"){Scopes = { "catolog_fullpermission" } },
-         new ApiResource("photo_stock"){Scopes = { "photo_stock_fullpermission" } },
+         new ApiResource("photo_storage"){Scopes = { "photo_storage_fullpermission" } },
          new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
         public static IEnumerable<IdentityResource> IdentityResources =>
@@ -32,7 +32,7 @@ namespace Course.IdentityServer {
             new ApiScope[]
             {
                 new ApiScope("catolog_fullpermission","Catalog Api Permissions"),
-                new ApiScope("photo_stock_fullpermission","Photo Stock Api Permissions"),
+                new ApiScope("photo_storage_fullpermission","Photo Storage Api Permissions"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -43,7 +43,7 @@ namespace Course.IdentityServer {
                     ClientId="Web-Client",
                     ClientSecrets={new Secret("secret".Sha256())},
                     AllowedGrantTypes= GrantTypes.ClientCredentials,
-                    AllowedScopes={ "catolog_fullpermission", "photo_stock_fullpermission",IdentityServerConstants.LocalApi.ScopeName }
+                    AllowedScopes={ "catolog_fullpermission", "photo_storage_fullpermission",IdentityServerConstants.LocalApi.ScopeName }
                 },
                   new Client{
                     ClientName="Web",
