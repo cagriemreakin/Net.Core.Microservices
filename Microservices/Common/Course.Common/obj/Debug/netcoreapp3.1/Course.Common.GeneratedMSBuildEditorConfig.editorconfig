@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Course.Common
+build_property.ProjectDir = D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\

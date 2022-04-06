@@ -1,0 +1,12 @@
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\bin\Debug\net6.0\Course.Common.deps.json
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\bin\Debug\net6.0\Course.Common.dll
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\bin\Debug\net6.0\Course.Common.pdb
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.csproj.AssemblyReference.cache
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.AssemblyInfoInputs.cache
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.AssemblyInfo.cs
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.csproj.CoreCompileInputs.cache
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.dll
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\refint\Course.Common.dll
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\Course.Common.pdb
+D:\Repos\Net.Core.Microservices\Microservices\Common\Course.Common\obj\Debug\net6.0\ref\Course.Common.dll

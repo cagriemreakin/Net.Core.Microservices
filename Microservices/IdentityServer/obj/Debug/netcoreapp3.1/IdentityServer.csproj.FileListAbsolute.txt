@@ -1,0 +1,9 @@
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.AssemblyReference.cache
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfoInputs.cache
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.AssemblyInfo.cs
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+D:\Repos\Net.Core.Microservices\Microservices\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
