@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "omp47bXGgqlA30oqZ48wuwkMQl0/F64IINP2B9qbNhY=",
+  "Source": "PhotoStorage",
+  "BasePath": "_content/PhotoStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PhotoStorage\\wwwroot",
+      "Source": "PhotoStorage",
+      "ContentRoot": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\wwwroot\\",
+      "BasePath": "_content/PhotoStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\wwwroot\\photos\\banner.png",
+      "SourceId": "PhotoStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\wwwroot\\",
+      "BasePath": "_content/PhotoStorage",
+      "RelativePath": "photos/banner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\banner.png"
+    }
+  ]
+}

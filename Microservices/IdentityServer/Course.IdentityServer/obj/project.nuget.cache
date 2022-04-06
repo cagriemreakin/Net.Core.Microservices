@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PbO7nTBEsxli4KYy2i/6kDUZbiKJbEQuSw77PXBSdJOFG5btWkEE0H2FOxovDfDCeOVz0pSOajTctjGJ3XZEBQ==",
+  "dgSpecHash": "pwRw+pG+//u+1AUie2ltq79BaV4MeOSFyRa9g0jG31TJVcYxiPTOIxsOS2zcEWIp8uMXgz08DAgWnpE6Enqw7w==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\IdentityServer\\Course.IdentityServer\\Course.IdentityServer.csproj",
   "expectedPackageFiles": [

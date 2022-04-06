@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1p3p+ekoBHvO5wEEdkU08ubE8wAU7o5VfnpEWZQxZH4SAW/D3l60x9vKtafF8l1T1IPbbcZ558kFQurhfp43ew==",
+  "dgSpecHash": "Sa3W45mU/yRa+aU7nku2TmqjmETrPX+oMK43vJ5sCzDcmP9Ksc9yWzZZJtbCKWMVfIlRaOie2MQy5Cv4bar0bw==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Common\\Course.Common\\Course.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
