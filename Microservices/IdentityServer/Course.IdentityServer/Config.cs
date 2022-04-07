@@ -13,6 +13,7 @@ namespace Course.IdentityServer {
          new ApiResource("resource_catalog"){Scopes = { "catolog_fullpermission" } },
          new ApiResource("resource_photo_storage"){Scopes = { "photo_storage_fullpermission" } },
          new ApiResource("resource_basket"){Scopes = { "basket_fullpermission" } },
+         new ApiResource("resource_discount"){Scopes = { "discount_fullpermission" } },
          new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
         public static IEnumerable<IdentityResource> IdentityResources =>
@@ -35,6 +36,7 @@ namespace Course.IdentityServer {
                 new ApiScope("catolog_fullpermission","Catalog Api Permissions"),
                 new ApiScope("photo_storage_fullpermission","Photo Storage Api Permissions"),
                 new ApiScope("basket_fullpermission","Basket Api Permissions"),
+                new ApiScope("discount_fullpermission","Discount Api Permissions"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -60,7 +62,8 @@ namespace Course.IdentityServer {
                          IdentityServerConstants.StandardScopes.OfflineAccess,
                          IdentityServerConstants.LocalApi.ScopeName,
                          "roles",
-                         "basket_fullpermission"
+                         "basket_fullpermission",
+                         "discount_fullpermission"
                     },
                     AccessTokenLifetime=3600,
                     RefreshTokenExpiration=TokenExpiration.Absolute,
