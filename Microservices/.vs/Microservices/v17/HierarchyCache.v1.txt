@@ -1,0 +1,1356 @@
+﻿++Solution 'Microservices' ‎(1 of 1 project)
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\services\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\services\
+++Catalog
+i:{f79a8889-f919-43af-9341-723bc52151b5}:Catalog
+++Courses.Services.Catalog
+i:{90038968-f793-4d2f-afbe-ad774f5a501a}:Courses.Services.Catalog
+++Connected Services 
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>19
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2746
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:>3904
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:>4081
+++No service dependencies discovered
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>20
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2747
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:>3905
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:>4082
+++Dependencies
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>18
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:>357
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2745
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:>3906
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:>4080
+++Imports
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>3355
+++Sdk.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\properties\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\properties\
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\properties\
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\properties\
+++launchSettings.json
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\properties\launchsettings.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\properties\launchsettings.json
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\properties\launchsettings.json
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\properties\launchsettings.json
+++bin
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\
+++obj
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\
+++appsettings.json
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\appsettings.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\appsettings.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\appsettings.json
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\appsettings.json
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\appsettings.json
+++appsettings.Development.json
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\appsettings.development.json
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\appsettings.development.json
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\appsettings.development.json
+++Program.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\program.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\program.cs
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\program.cs
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\program.cs
+++Analyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:analyzers
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:analyzers
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:analyzers
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:analyzers
+++Frameworks
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:frameworks
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:frameworks
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:frameworks
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:frameworks
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:frameworks
+++Packages
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:packages
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:packages
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:packages
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:packages
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Debug
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\
+++Courses.Services.Catalog.csproj.nuget.dgspec.json
+++Courses.Services.Catalog.csproj.nuget.g.props
+++Courses.Services.Catalog.csproj.nuget.g.targets
+++project.assets.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\project.assets.json
+++project.nuget.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+++Microsoft.AspNetCore.Analyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\microsoft.aspnetcore.app
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\microsoft.aspnetcore.app
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\microsoft.aspnetcore.app
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\microsoft.aspnetcore.app
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\microsoft.netcore.app
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\microsoft.netcore.app
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\microsoft.netcore.app
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\microsoft.netcore.app
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\microsoft.netcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+++Microsoft.Common.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++net6.0
+++Microsoft.NuGet.ImportBefore.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Courses.Services.Catalog.deps.json
+++Courses.Services.Catalog.dll
+++Courses.Services.Catalog.exe
+++Courses.Services.Catalog.pdb
+++Courses.Services.Catalog.runtimeconfig.json
+++Microsoft.OpenApi.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+++ref
+++refint
+++staticwebassets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\apphost.exe
+++Courses.Services.Catalog.AssemblyInfo.cs
+++Courses.Services.Catalog.AssemblyInfoInputs.cache
+++Courses.Services.Catalog.assets.cache
+++Courses.Services.Catalog.csproj.AssemblyReference.cache
+++Courses.Services.Catalog.csproj.BuildWithSkipAnalyzers
+++Courses.Services.Catalog.csproj.CopyComplete
+++Courses.Services.Catalog.csproj.CoreCompileInputs.cache
+++Courses.Services.Catalog.csproj.FileListAbsolute.txt
+++Courses.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+++Courses.Services.Catalog.genruntimeconfig.cache
+++Courses.Services.Catalog.GlobalUsings.g.cs
+++Courses.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache
+++Courses.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+++staticwebassets.build.json
+++Microsoft.Extensions.ApiDescription.Server.props
+++Swashbuckle.AspNetCore.props
+++Microsoft.NuGet.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Courses.Services.Catalog.csproj.user
+++Microsoft.NET.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+++Microsoft.Docker.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++MongoDB.Driver (2.15.0)
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>337
+++Swashbuckle.AspNetCore (6.3.0)
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>338
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:>4039
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:>4147
+++NewFolder
+++Models
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\models\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\models\
+++Category.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\models\category.cs
+++Course.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\models\course.cs
+++Feature.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\models\feature.cs
+++NewFolder1
+++Common
+i:{00000000-0000-0000-0000-000000000000}:Common
+++Solution 'Microservices' ‎(2 of 2 projects)
+++Course.Common
+i:{3ed50d5e-f0df-4eed-aa34-921e8128c784}:Course.Common
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\common\course.common\course.common.csproj
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\common\course.common\course.common.csproj
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\common\course.common\course.common.csproj
+++Class1.cs
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Dtos
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\dtos\
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\dtos\
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\dtos\
+++ResponseDto.cs
+++NoContent.cs
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\dtos\nocontent.cs
+++Class.cs
+++CategoryDto.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\categorydto.cs
+++FeatureDto.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\featuredto.cs
+++CourseDto.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\coursedto.cs
+++CourseCreateDto.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\coursecreatedto.cs
+++CourseUpdateDto.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\dtos\courseupdatedto.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>446
+++Mapping
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\mapping\
+++GeneralMapping.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\mapping\generalmapping.cs
+++Configuration
+++IDatabaseSettings.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\settings\idatabasesettings.cs
+++DatabaseSettings.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\settings\databasesettings.cs
+++Settings
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\settings\
+++CategoryService.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\services\categoryservice.cs
+++Projects
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:projects
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:projects
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:projects
+++Response.cs
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\dtos\response.cs
+++CourseService.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\services\courseservice.cs
+++ICourseService.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\services\icourseservice.cs
+++ICategoryService.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\services\icategoryservice.cs
+++Controllers
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\controllers\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\controllers\
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\controllers\
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\controllers\
+++CoursesController.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\controllers\coursescontroller.cs
+++ControllerBase
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\controllerbase\
+++CustomBaseController.cs
+i:{f44dee6e-0287-4c58-8f21-bdf536c88d5e}:d:\repos\net.core.microservices\microservices\common\course.common\controllerbase\custombasecontroller.cs
+++CategoriesController.cs
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:d:\repos\net.core.microservices\microservices\services\catalog\courses.services.catalog\controllers\categoriescontroller.cs
+++IdentityServer
+i:{00000000-0000-0000-0000-000000000000}:IdentityServer
+++Solution 'Microservices' ‎(3 of 3 projects)
+++wwwroot
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\wwwroot\
+++Course.IdentityServer
+i:{7a912f1c-d7de-40e9-8919-536a9afd10a8}:Course.IdentityServer
+++Data
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\data\
+++Quickstart
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\
+++Views
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\
+++Config.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\config.cs
+++SeedData.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\seeddata.cs
+++Startup.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\startup.cs
+++updateUI.ps1
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\updateui.ps1
+++css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\css\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\js\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\lib\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\
+++favicon.ico
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\favicon.ico
+++icon.jpg
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\icon.jpg
+++icon.png
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\icon.png
+++Migrations
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\migrations\
+++ApplicationDbContext.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\data\applicationdbcontext.cs
+++ApplicationUser.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\models\applicationuser.cs
+++Account
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\account\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\account\
+++Consent
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\consent\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\consent\
+++Device
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\device\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\device\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\device\
+++Diagnostics
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\diagnostics\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\diagnostics\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\diagnostics\
+++Grants
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\grants\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\grants\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\grants\
+++Home
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\home\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\home\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\home\
+++Extensions.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\extensions.cs
+++SecurityHeadersAttribute.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\securityheadersattribute.cs
+++TestUsers.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\testusers.cs
+++Shared
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\
+++_ViewImports.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\_viewstart.cshtml
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++IdentityServer4.AspNetIdentity (4.0.0)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2757
+++Microsoft.AspNetCore.Authentication.Google (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2760
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2758
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2761
+++Microsoft.AspNetCore.Identity.UI (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2763
+++Microsoft.EntityFrameworkCore.Sqlite (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2759
+++Microsoft.EntityFrameworkCore.Tools (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2762
+++Serilog.AspNetCore (3.2.0)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>2756
+++site.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\css\site.css
+++site.min.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\css\site.min.css
+++site.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\css\site.scss
+++signin-redirect.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\js\signin-redirect.js
+++signout-redirect.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\js\signout-redirect.js
+++bootstrap
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\
+++jquery
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\
+++20180109192453_CreateIdentitySchema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\migrations\applicationdbcontextmodelsnapshot.cs
+++AccountController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\accountcontroller.cs
+++AccountOptions.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\accountoptions.cs
+++ExternalController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\externalcontroller.cs
+++ExternalProvider.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\externalprovider.cs
+++LoggedOutViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\loggedoutviewmodel.cs
+++LoginInputModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\logininputmodel.cs
+++LoginViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\loginviewmodel.cs
+++LogoutInputModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\logoutinputmodel.cs
+++LogoutViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\logoutviewmodel.cs
+++RedirectViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\account\redirectviewmodel.cs
+++ConsentController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\consentcontroller.cs
+++ConsentInputModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\consentinputmodel.cs
+++ConsentOptions.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\consentoptions.cs
+++ConsentViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\consentviewmodel.cs
+++ProcessConsentResult.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\processconsentresult.cs
+++ScopeViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\consent\scopeviewmodel.cs
+++DeviceAuthorizationInputModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\device\deviceauthorizationinputmodel.cs
+++DeviceAuthorizationViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\device\deviceauthorizationviewmodel.cs
+++DeviceController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\device\devicecontroller.cs
+++DiagnosticsController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\diagnostics\diagnosticscontroller.cs
+++DiagnosticsViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\diagnostics\diagnosticsviewmodel.cs
+++GrantsController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\grants\grantscontroller.cs
+++GrantsViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\grants\grantsviewmodel.cs
+++ErrorViewModel.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\home\errorviewmodel.cs
+++HomeController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\quickstart\home\homecontroller.cs
+++AccessDenied.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\account\accessdenied.cshtml
+++LoggedOut.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\account\loggedout.cshtml
+++Login.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\account\login.cshtml
+++Logout.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\account\logout.cshtml
+++Index.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\consent\index.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\diagnostics\index.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\grants\index.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\home\index.cshtml
+++Success.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\device\success.cshtml
+++UserCodeCapture.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\device\usercodecapture.cshtml
+++UserCodeConfirmation.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\device\usercodeconfirmation.cshtml
+++_Layout.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\_layout.cshtml
+++_Nav.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\_nav.cshtml
+++_ScopeListItem.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\_scopelistitem.cshtml
+++_ValidationSummary.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\_validationsummary.cshtml
+++Error.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\error.cshtml
+++Redirect.cshtml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\views\shared\redirect.cshtml
+++dist
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\
+++scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\
+++README.md
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\readme.md
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\readme.md
+++LICENSE.txt
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\license.txt
+++20180109192453_CreateIdentitySchema.Designer.cs
+++mixins
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\
+++utilities
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\
+++vendor
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\vendor\
+++_alert.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_alert.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_badge.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_badge.scss
+++_breadcrumb.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_buttons.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_close.scss
+++_code.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_code.scss
+++_custom-forms.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_custom-forms.scss
+++_dropdown.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_forms.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_grid.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_grid.scss
+++_images.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_images.scss
+++_input-group.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_input-group.scss
+++_jumbotron.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_jumbotron.scss
+++_list-group.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_list-group.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_list-group.scss
+++_media.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_media.scss
+++_mixins.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_navbar.scss
+++_pagination.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_pagination.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_pagination.scss
+++_popover.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_popover.scss
+++_print.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_print.scss
+++_progress.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_utilities.scss
+++_variables.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\bootstrap-reboot.scss
+++jquery.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.min.map
+++jquery.slim.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.slim.js
+++jquery.slim.min.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.slim.min.js
+++jquery.slim.min.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\jquery\dist\jquery.slim.min.map
+++bootstrap.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++_background-variant.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_background-variant.scss
+++_border-radius.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_caret.scss
+++_clearfix.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_clearfix.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_clearfix.scss
+++_deprecate.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_deprecate.scss
+++_float.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_float.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_float.scss
+++_gradients.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_gradients.scss
+++_grid-framework.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_grid-framework.scss
+++_hover.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_hover.scss
+++_image.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_lists.scss
+++_nav-divider.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_nav-divider.scss
+++_reset-text.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_resize.scss
+++_screen-reader.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_screen-reader.scss
+++_size.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_size.scss
+++_table-row.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_table-row.scss
+++_text-emphasis.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_text-emphasis.scss
+++_text-hide.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_text-hide.scss
+++_text-truncate.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_transition.scss
+++_visibility.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\mixins\_visibility.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_visibility.scss
+++_align.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_align.scss
+++_background.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_background.scss
+++_borders.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_borders.scss
+++_display.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_display.scss
+++_embed.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_embed.scss
+++_flex.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_flex.scss
+++_overflow.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_overflow.scss
+++_position.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_position.scss
+++_screenreaders.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_screenreaders.scss
+++_shadows.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_shadows.scss
+++_sizing.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_sizing.scss
+++_spacing.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_spacing.scss
+++_stretched-link.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_stretched-link.scss
+++_text.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\utilities\_text.scss
+++_rfs.scss
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\wwwroot\lib\bootstrap\scss\vendor\_rfs.scss
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.5)
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:>3276
+++tempkey.jwk
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\tempkey.jwk
+++20220406151917_initial.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\migrations\20220406151917_initial.cs
+++20220406151917_initial.Designer.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\migrations\20220406151917_initial.designer.cs
+++UserController.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\controllers\usercontroller.cs
+++UserRegister.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\dtos\userregister.cs
+++netcoreapp3.1
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\
+++runtimes
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\
+++Course.Common.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.common.dll
+++Course.Common.pdb
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.common.pdb
+++Course.IdentityServer.deps.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.deps.json
+++Course.IdentityServer.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.dll
+++Course.IdentityServer.exe
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.exe
+++Course.IdentityServer.pdb
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.pdb
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.pdb
+++Course.IdentityServer.runtimeconfig.dev.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.runtimeconfig.dev.json
+++Course.IdentityServer.runtimeconfig.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.runtimeconfig.json
+++Course.IdentityServer.StaticWebAssets.xml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\staticwebassets\course.identityserver.staticwebassets.xml
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.staticwebassets.xml
+++Course.IdentityServer.Views.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.views.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.views.dll
+++Course.IdentityServer.Views.pdb
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.views.pdb
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\course.identityserver.views.pdb
+++IdentityModel.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\identitymodel.dll
+++IdentityServer4.AspNetIdentity.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\identityserver4.aspnetidentity.dll
+++IdentityServer4.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\identityserver4.dll
+++IdentityServer4.Storage.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\identityserver4.storage.dll
+++Microsoft.AspNetCore.Authentication.Google.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.authentication.google.dll
+++Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.authentication.openidconnect.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.diagnostics.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.UI.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.identity.ui.dll
+++Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.identity.ui.views.v3.dll
+++Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.aspnetcore.identity.ui.views.v4.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Bcl.HashCode.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.bcl.hashcode.dll
+++Microsoft.Data.SqlClient.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.Data.Sqlite.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.data.sqlite.dll
+++Microsoft.DotNet.PlatformAbstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.dotnet.platformabstractions.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.Sqlite.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.sqlite.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.dependencymodel.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.identity.stores.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\microsoft.identitymodel.tokens.dll
+++Newtonsoft.Json.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\newtonsoft.json.dll
+++Serilog.AspNetCore.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.aspnetcore.dll
+++Serilog.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.dll
+++Serilog.Extensions.Hosting.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.extensions.hosting.dll
+++Serilog.Extensions.Logging.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.extensions.logging.dll
+++Serilog.Formatting.Compact.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.formatting.compact.dll
+++Serilog.Settings.Configuration.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.settings.configuration.dll
+++Serilog.Sinks.Console.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.sinks.console.dll
+++Serilog.Sinks.Debug.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.sinks.debug.dll
+++Serilog.Sinks.File.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\serilog.sinks.file.dll
+++SQLitePCLRaw.batteries_v2.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\sqlitepclraw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\sqlitepclraw.core.dll
+++SQLitePCLRaw.nativelibrary.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\sqlitepclraw.nativelibrary.dll
+++SQLitePCLRaw.provider.dynamic_cdecl.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\sqlitepclraw.provider.dynamic_cdecl.dll
+++System.Collections.Immutable.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.collections.immutable.dll
+++System.Configuration.ConfigurationManager.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.security.cryptography.protecteddata.dll
+++System.Text.Json.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\system.text.json.dll
+++alpine-x64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\alpine-x64\
+++linux-arm
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm\
+++linux-arm64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm64\
+++linux-armel
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-armel\
+++linux-musl-x64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-musl-x64\
+++linux-x64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x64\
+++linux-x86
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x86\
+++osx-x64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\osx-x64\
+++unix
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\
+++win
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\
+++win-arm
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm\
+++win-arm64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm64\
+++win-x64
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x64\
+++win-x86
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x86\
+++native
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\alpine-x64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-armel\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-musl-x64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x86\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\osx-x64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x64\native\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x86\native\
+++libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+++libe_sqlite3.dylib
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+++netcoreapp2.0
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\
+++netcoreapp2.1
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\
+++netstandard2.0
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\
+++e_sqlite3.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+++sni.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\bin\debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+++Course.IdentityServer.csproj.nuget.dgspec.json
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\course.identityserver.csproj.nuget.dgspec.json
+++Course.IdentityServer.csproj.nuget.g.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\course.identityserver.csproj.nuget.g.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\course.identityserver.csproj.nuget.g.props
+++Course.IdentityServer.csproj.nuget.g.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\course.identityserver.csproj.nuget.g.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\course.identityserver.csproj.nuget.g.targets
+++Razor
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++Course.IdentityServer.AssemblyInfo.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.assemblyinfo.cs
+++Course.IdentityServer.AssemblyInfoInputs.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.assemblyinfoinputs.cache
+++Course.IdentityServer.assets.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.assets.cache
+++Course.IdentityServer.csproj.AssemblyReference.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.csproj.assemblyreference.cache
+++Course.IdentityServer.csproj.BuildWithSkipAnalyzers
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.csproj.buildwithskipanalyzers
+++Course.IdentityServer.csproj.CopyComplete
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.csproj.copycomplete
+++Course.IdentityServer.csproj.CoreCompileInputs.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.csproj.corecompileinputs.cache
+++Course.IdentityServer.csproj.FileListAbsolute.txt
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.csproj.filelistabsolute.txt
+++Course.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.generatedmsbuildeditorconfig.editorconfig
+++Course.IdentityServer.genruntimeconfig.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.genruntimeconfig.cache
+++Course.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.mvcapplicationpartsassemblyinfo.cache
+++Course.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.mvcapplicationpartsassemblyinfo.cs
+++Course.IdentityServer.RazorAssemblyInfo.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.razorassemblyinfo.cache
+++Course.IdentityServer.RazorAssemblyInfo.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.razorassemblyinfo.cs
+++Course.IdentityServer.RazorCoreGenerate.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.razorcoregenerate.cache
+++Course.IdentityServer.RazorTargetAssemblyInfo.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.razortargetassemblyinfo.cache
+++Course.IdentityServer.RazorTargetAssemblyInfo.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.razortargetassemblyinfo.cs
+++Course.IdentityServer.TagHelpers.input.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.taghelpers.input.cache
+++Course.IdentityServer.TagHelpers.output.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\course.identityserver.taghelpers.output.cache
+++Course.IdentityServer.StaticWebAssets.Manifest.cache
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\staticwebassets\course.identityserver.staticwebassets.manifest.cache
+++_ViewImports.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\_viewstart.cshtml.g.cs
+++AccessDenied.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\account\accessdenied.cshtml.g.cs
+++LoggedOut.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\account\loggedout.cshtml.g.cs
+++Login.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\account\login.cshtml.g.cs
+++Logout.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\account\logout.cshtml.g.cs
+++Index.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\consent\index.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\diagnostics\index.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\grants\index.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\home\index.cshtml.g.cs
+++Success.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\device\success.cshtml.g.cs
+++UserCodeCapture.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\device\usercodecapture.cshtml.g.cs
+++UserCodeConfirmation.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\device\usercodeconfirmation.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\_layout.cshtml.g.cs
+++_Nav.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\_nav.cshtml.g.cs
+++_ScopeListItem.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\_scopelistitem.cshtml.g.cs
+++_ValidationSummary.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\_validationsummary.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\error.cshtml.g.cs
+++Redirect.cshtml.g.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\obj\debug\netcoreapp3.1\razor\views\shared\redirect.cshtml.g.cs
+++Microsoft.NET.Windows.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.EntityFrameworkCore.Design.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.entityframeworkcore.design\3.1.5\build\netcoreapp2.0\microsoft.entityframeworkcore.design.props
+++Microsoft.AspNetCore.Identity.UI.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\buildtransitive\microsoft.aspnetcore.identity.ui.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\buildmultitargeting\microsoft.aspnetcore.identity.ui.props
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\build\microsoft.aspnetcore.identity.ui.props
+++Course.IdentityServer.csproj.user
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\course.identityserver.csproj.user
+++Microsoft.AspnetCore.Identity.UI.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\buildtransitive\microsoft.aspnetcore.identity.ui.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\buildmultitargeting\microsoft.aspnetcore.identity.ui.targets
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:c:\users\emre\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\build\microsoft.aspnetcore.identity.ui.targets
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.3)
+i:{5de4b1ea-974e-4ef2-a274-b0d8423b31dc}:>3504
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:>4038
+++ResourceOwnerPasswordValidator.cs
+i:{94766c88-7bf8-46bc-9b71-90edb8a8e4a7}:d:\repos\net.core.microservices\microservices\identityserver\course.identityserver\services\resourceownerpasswordvalidator.cs
+++PhotoStorage
+i:{f79a8889-f919-43af-9341-723bc52151b5}:PhotoStorage
+i:{072742ff-0b7f-4871-be8b-4bdaacc3a68b}:PhotoStorage
+++Solution 'Microservices' ‎(4 of 4 projects)
+++Photos
+++photos
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\wwwroot\photos\
+++PhotosController.cs
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\controllers\photoscontroller.cs
+++PhotoDto.cs
+i:{787722d4-d79a-45e7-8d60-af45b8d95bcf}:d:\repos\net.core.microservices\microservices\photostorage\photostorage\dtos\photodto.cs
+++banner.png
+++Basket
+i:{f79a8889-f919-43af-9341-723bc52151b5}:Basket
+++Solution 'Microservices' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Microservices.sln
+++Course.Basket
+i:{a4025e58-b7d7-424c-b7c5-8e38c53899b4}:Course.Basket
+++StackExchange.Redis (2.5.61)
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:>4148
+++BasketsController.cs
+i:{cc4affe0-3957-4394-bd52-d9fd83a8536c}:d:\repos\net.core.microservices\microservices\services\basket\course.basket\controllers\basketscontroller.cs

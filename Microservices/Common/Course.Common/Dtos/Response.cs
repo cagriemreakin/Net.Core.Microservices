@@ -15,7 +15,6 @@ namespace Course.Common.Dtos {
 
         public List<string> Errors { get; set; }
 
-
         #region Static Factory Methods
 
         public static Response<T> Success(T data, int statusCode) {

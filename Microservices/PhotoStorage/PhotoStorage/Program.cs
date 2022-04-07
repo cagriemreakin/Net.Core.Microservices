@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options => {
-    options.Audience = "photo_storage";
+    options.Audience = "resource_photo_storage";
     options.Authority = builder.Configuration["IdentityServerURL"];
     options.RequireHttpsMetadata = false;
 });
