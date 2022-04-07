@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YR2Cby5QKyccIkkbQQriIFfFquDlusJiAUWczJAeIu58i8vkke7cluY3a7M4SoUESHqF7x9l6te+RTBZMdKLZQ==",
+  "dgSpecHash": "tJG9OT6qcaBl0jFou8q+5ErP7fYgyGIMl/9wceRlqZ73b7T9JuKMAmFDQv5TOytjCCrJmBvkai3E1Ebja5pSFQ==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\Discount\\Course.Discount\\Course.Discount.csproj",
   "expectedPackageFiles": [

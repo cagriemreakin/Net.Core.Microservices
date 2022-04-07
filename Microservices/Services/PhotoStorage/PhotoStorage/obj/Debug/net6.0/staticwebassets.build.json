@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qSvLSvvDvwKNPk63/dWfzLZyDO2pl1AFzRxmOlErsTs=",
+  "Hash": "kFFtVox7iVLtz6uw+W3livhboZMXpRbohPTsHt3CMks=",
   "Source": "PhotoStorage",
   "BasePath": "_content/PhotoStorage",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "PhotoStorage\\wwwroot",
       "Source": "PhotoStorage",
-      "ContentRoot": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\wwwroot\\",
+      "ContentRoot": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\wwwroot\\",
       "BasePath": "_content/PhotoStorage",
       "Pattern": "**"
     }

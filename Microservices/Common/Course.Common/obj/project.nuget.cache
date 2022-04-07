@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sa3W45mU/yRa+aU7nku2TmqjmETrPX+oMK43vJ5sCzDcmP9Ksc9yWzZZJtbCKWMVfIlRaOie2MQy5Cv4bar0bw==",
+  "dgSpecHash": "Ow8RV5p7hVzAKMXSwSXN8ahUcR5mU5WLbY6dJKsu88zQAKas29ZdSxK+Y8105R/oUdifCVmnxNGQDyUAxwc4ZA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Common\\Course.Common\\Course.Common.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

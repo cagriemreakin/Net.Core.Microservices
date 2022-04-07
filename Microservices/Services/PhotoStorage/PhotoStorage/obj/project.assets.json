@@ -589,8 +589,8 @@
     },
     "Course.Common/1.0.0": {
       "type": "project",
-      "path": "../../Common/Course.Common/Course.Common.csproj",
-      "msbuildProject": "../../Common/Course.Common/Course.Common.csproj"
+      "path": "../../../Common/Course.Common/Course.Common.csproj",
+      "msbuildProject": "../../../Common/Course.Common/Course.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -606,11 +606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
+      "projectUniqueName": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
       "projectName": "PhotoStorage",
-      "projectPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
+      "projectPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
       "packagesPath": "C:\\Users\\EMRE\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\obj\\",
+      "outputPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EMRE\\AppData\\Roaming\\NuGet\\NuGet.Config",

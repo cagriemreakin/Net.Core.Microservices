@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj": {}
+    "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj": {}
   },
   "projects": {
     "D:\\Repos\\Net.Core.Microservices\\Microservices\\Common\\Course.Common\\Course.Common.csproj": {
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,14 +61,14 @@
         }
       }
     },
-    "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj": {
+    "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
+        "projectUniqueName": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
         "projectName": "PhotoStorage",
-        "projectPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
+        "projectPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
         "packagesPath": "C:\\Users\\EMRE\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\obj\\",
+        "outputPath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EMRE\\AppData\\Roaming\\NuGet\\NuGet.Config",

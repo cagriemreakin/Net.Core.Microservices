@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WO+7zN3M1lYCEBBL9TYU7slgEdoF/gYtZHryo9KbVhVCRex4k/pd8zngpDt3eWciJVWu8DKpUd8BGLWrrTR5jQ==",
+  "dgSpecHash": "dq76aY+Egu3wKJz9GlsCrzoT1OhcViOThWRhOKPv9kCy+fcw0lc7IYLxvlTHbMWifRlDy03jQqyRIOVRbjy9lA==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
+  "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\PhotoStorage\\PhotoStorage\\PhotoStorage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.3\\microsoft.aspnetcore.authentication.jwtbearer.6.0.3.nupkg.sha512",
     "C:\\Users\\EMRE\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

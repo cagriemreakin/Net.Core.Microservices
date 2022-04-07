@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8ML8LXfsoFPZNA748A3VDuNOYn7ZaL50oYuuXwy2fw/t+YR2VosS3BTQybMCs3FvZ8EvFLV9IufM9evegrIZLg==",
+  "dgSpecHash": "mSXboia5OVJpZ62P4Me68kBj8vAUvVbfKQHEANqYyPrtHZYwcwMKzrpDKUo0Y4zUpocqhqqptaB9+za378vE6w==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\Basket\\Course.Basket\\Course.Basket.csproj",
   "expectedPackageFiles": [

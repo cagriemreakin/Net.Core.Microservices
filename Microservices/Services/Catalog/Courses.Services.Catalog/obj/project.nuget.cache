@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FUUkHSvbRBR/Q7yjPj5ijh5MYexMVEOWHjpLWMj1FmSdxxPuVGgcH9x6die+c/gCvLi7lQjY/mLe2t/4yMNuKQ==",
+  "dgSpecHash": "cx07F+JuEjLrbZ60Ukj9tifc4RQ9A5Z/2JRoYgPe+KPV6M49HE+xXuayqKWZv5xacXfcSI+EN+KsxfFHQxG2lA==",
   "success": true,
   "projectFilePath": "D:\\Repos\\Net.Core.Microservices\\Microservices\\Services\\Catalog\\Courses.Services.Catalog\\Courses.Services.Catalog.csproj",
   "expectedPackageFiles": [
