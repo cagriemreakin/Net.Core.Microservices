@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.IdentityServer", "Id
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStorage", "PhotoStorage", "{072742FF-0B7F-4871-BE8B-4BDAACC3A68B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStorage", "Services\PhotoStorage\PhotoStorage\PhotoStorage.csproj", "{787722D4-D79A-45E7-8D60-AF45B8D95BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStorage", "PhotoStorage\PhotoStorage\PhotoStorage.csproj", "{787722D4-D79A-45E7-8D60-AF45B8D95BCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{A4025E58-B7D7-424C-B7C5-8E38C53899B4}"
 EndProject
