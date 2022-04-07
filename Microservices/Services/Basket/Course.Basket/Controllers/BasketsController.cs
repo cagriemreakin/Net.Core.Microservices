@@ -20,7 +20,6 @@ namespace Course.Basket.Controllers {
         [HttpGet]
         public async Task<IActionResult> GetBasketAsync() {
 
-            var claims = User.Claims;
            var basket = await _basketService.GetBasket(_sharedIdentityService.GetUserId);
             return CreateActionResultInstance(basket);
         }

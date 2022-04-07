@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{90038968-F793-4D2F-AFBE-AD774F5A501A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Courses.Services.Catalog", "Services\Catalog\Courses.Services.Catalog\Courses.Services.Catalog.csproj", "{5DE4B1EA-974E-4EF2-A274-B0D8423B31DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Courses.Services.Catalog", "Services\Catalog\Courses.Services.Catalog\Courses.Services.Catalog.csproj", "{5DE4B1EA-974E-4EF2-A274-B0D8423B31DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{3ED50D5E-F0DF-4EED-AA34-921E8128C784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Common", "Common\Course.Common\Course.Common.csproj", "{F44DEE6E-0287-4C58-8F21-BDF536C88D5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Common", "Common\Course.Common\Course.Common.csproj", "{F44DEE6E-0287-4C58-8F21-BDF536C88D5E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{7A912F1C-D7DE-40E9-8919-536A9AFD10A8}"
 EndProject
@@ -19,11 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.IdentityServer", "Id
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStorage", "PhotoStorage", "{072742FF-0B7F-4871-BE8B-4BDAACC3A68B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage", "PhotoStorage\PhotoStorage\PhotoStorage.csproj", "{787722D4-D79A-45E7-8D60-AF45B8D95BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStorage", "PhotoStorage\PhotoStorage\PhotoStorage.csproj", "{787722D4-D79A-45E7-8D60-AF45B8D95BCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{A4025E58-B7D7-424C-B7C5-8E38C53899B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Basket", "Services\Basket\Course.Basket\Course.Basket.csproj", "{CC4AFFE0-3957-4394-BD52-D9FD83A8536C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course.Basket", "Services\Basket\Course.Basket\Course.Basket.csproj", "{CC4AFFE0-3957-4394-BD52-D9FD83A8536C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{EC91B3AB-7779-44F1-ABB5-AD7977C745FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Discount", "Services\Discount\Course.Discount\Course.Discount.csproj", "{B1ABC913-AE0A-4521-973F-8445EF3CCF00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,10 @@ Global
 		{CC4AFFE0-3957-4394-BD52-D9FD83A8536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4AFFE0-3957-4394-BD52-D9FD83A8536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4AFFE0-3957-4394-BD52-D9FD83A8536C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1ABC913-AE0A-4521-973F-8445EF3CCF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ABC913-AE0A-4521-973F-8445EF3CCF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ABC913-AE0A-4521-973F-8445EF3CCF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ABC913-AE0A-4521-973F-8445EF3CCF00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,8 @@ Global
 		{787722D4-D79A-45E7-8D60-AF45B8D95BCF} = {072742FF-0B7F-4871-BE8B-4BDAACC3A68B}
 		{A4025E58-B7D7-424C-B7C5-8E38C53899B4} = {F79A8889-F919-43AF-9341-723BC52151B5}
 		{CC4AFFE0-3957-4394-BD52-D9FD83A8536C} = {A4025E58-B7D7-424C-B7C5-8E38C53899B4}
+		{EC91B3AB-7779-44F1-ABB5-AD7977C745FC} = {F79A8889-F919-43AF-9341-723BC52151B5}
+		{B1ABC913-AE0A-4521-973F-8445EF3CCF00} = {EC91B3AB-7779-44F1-ABB5-AD7977C745FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C7A9CB2A-5DDC-4D3C-AC9A-16CC3D01EC4E}
