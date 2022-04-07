@@ -10,8 +10,9 @@ using System.Collections.Generic;
 namespace Course.IdentityServer {
     public static class Config {
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[] {
-         new ApiResource("catalog"){Scopes = { "catolog_fullpermission" } },
-         new ApiResource("photo_storage"){Scopes = { "photo_storage_fullpermission" } },
+         new ApiResource("resource_catalog"){Scopes = { "catolog_fullpermission" } },
+         new ApiResource("resource_photo_storage"){Scopes = { "photo_storage_fullpermission" } },
+         new ApiResource("resource_basket"){Scopes = { "basket_fullpermission" } },
          new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
         public static IEnumerable<IdentityResource> IdentityResources =>
@@ -33,6 +34,7 @@ namespace Course.IdentityServer {
             {
                 new ApiScope("catolog_fullpermission","Catalog Api Permissions"),
                 new ApiScope("photo_storage_fullpermission","Photo Storage Api Permissions"),
+                new ApiScope("basket_fullpermission","Basket Api Permissions"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -57,7 +59,8 @@ namespace Course.IdentityServer {
                          IdentityServerConstants.StandardScopes.Profile,
                          IdentityServerConstants.StandardScopes.OfflineAccess,
                          IdentityServerConstants.LocalApi.ScopeName,
-                         "roles"
+                         "roles",
+                         "basket_fullpermission"
                     },
                     AccessTokenLifetime=3600,
                     RefreshTokenExpiration=TokenExpiration.Absolute,

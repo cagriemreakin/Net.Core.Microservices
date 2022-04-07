@@ -25,7 +25,7 @@ builder.Services.AddSwaggerGen(c => {
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options => {
     options.Authority = builder.Configuration["IdentityServerURL"];
-    options.Audience = "catalog";
+    options.Audience = "resource_catalog";
     options.RequireHttpsMetadata = false;
 });
 var app = builder.Build();
